@@ -1,7 +1,6 @@
 /*
  * essaiProjetJeuDeLaVie.c
  * 
- * Copyright 2017 BlackAllSun <attilavlh10@gmail.com>
  */
 #include <stdlib.h>
 #include <string.h>
