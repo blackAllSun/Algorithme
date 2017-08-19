@@ -3,9 +3,6 @@
 #
 #  exoGeometrie1.py
 #  
-#  Copyright 2017 BlackAllSun <attilavlh10@gmail.com>
-#  
-#  
 
 import numpy as np
 import matplotlib.pyplot as plt
