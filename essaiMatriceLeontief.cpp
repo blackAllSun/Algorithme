@@ -1,7 +1,6 @@
 /*
  * essaiMatriceLeontief.cpp
  * 
- * Copyright 2017 BlackAllSun <attilavlh10@gmail.com>
  */
 
 
